@@ -1,0 +1,20 @@
+{
+  "name": "benny-bot",
+  "version": "1.0.0",
+  "description": "Helps with french translations.",
+  "main": "lib/benny-bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bennybot"
+  ],
+  "author": "Shrey Kavi",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "google-translate-api": "^2.3.0",
+    "slackbots": "^0.3.0"
+  }
+}
